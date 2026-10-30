@@ -1,0 +1,6 @@
+{
+  "name": "Quiz de Español — Ո՞վ է ուզում դառնալ միլիոնատեր",
+  "description": "Ինտերակտիվ վիկտորինա իսպաներեն և հայերեն լեզուներով՝ «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով, թարգմանություններով և խոսակցական վարժություններով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
